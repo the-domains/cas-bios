@@ -1,6 +1,6 @@
 name: CAS Bios
 favicon: null
-layout_spectrum: 0.6934990375302732
+layout_spectrum: 0.25655
 typography_spectrum: 0.3671089874114841
 title: 'K4SOCAL: Capital Access Series Faculty Members'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.1376153053715825
-  lightness: 0.5358609103132039
-  saturation: 0.7744248085655272
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.6875
   rhythmicContrast: 0.017573144054040313
 purpose: []
